@@ -5,6 +5,7 @@ it then generates the machinery to handle the creation of multiple atomic values
 
 This avoids the write locking problem in Acid systems by using two separated data ideas for each piece.
 
+hack#2
 
 
 
